@@ -1,0 +1,7 @@
+---
+title: "7 Walkthrough 1 The Education Data Science Pipeline With Online Science Class Data"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c07.html
+

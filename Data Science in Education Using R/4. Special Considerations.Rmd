@@ -1,0 +1,6 @@
+---
+title: "4 Special Considerations"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c04.html

@@ -1,0 +1,6 @@
+---
+title: "14 Walkthrough 8: Predicting Students’ Final Grades Using Machine Learning Methods with Online Course Data"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c14.html

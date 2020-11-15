@@ -1,0 +1,6 @@
+---
+title: "15 Introducing Data Science Tools To Your Education Job"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c15.html

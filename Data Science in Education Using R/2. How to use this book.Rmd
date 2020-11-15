@@ -1,0 +1,6 @@
+---
+title: "2. How to use this book"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c02.html

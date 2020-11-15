@@ -1,0 +1,6 @@
+---
+title: "16 Teaching Data Science"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c16.html

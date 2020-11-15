@@ -1,0 +1,10 @@
+---
+title: "Data Science in Education Using R by Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez"
+output: html_notebook
+---
+
+https://datascienceineducation.com/index.html
+
+# {.tabset}
+
+## Welcome

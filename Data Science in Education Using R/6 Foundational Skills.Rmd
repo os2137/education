@@ -1,0 +1,6 @@
+---
+title: "6 Foundational Skills"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c06.html

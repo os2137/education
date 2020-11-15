@@ -1,0 +1,6 @@
+---
+title: "20 Appendices"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c20.html

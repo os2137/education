@@ -1,0 +1,6 @@
+---
+title: "18 Additional Resources"
+output: html_notebook
+---
+
+https://datascienceineducation.com/c18.html
